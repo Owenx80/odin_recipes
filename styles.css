@@ -6,6 +6,8 @@ button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: bold;
+    margin: 10px auto;
+    padding: 10px;
 
 }
 
@@ -15,10 +17,15 @@ a:hover {
 
 h1,
 h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 body {
     background-color: #faeca5
 
+}
+
+.container {
+    text-align: center;
 }
